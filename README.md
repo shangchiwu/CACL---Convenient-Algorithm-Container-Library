@@ -10,23 +10,22 @@ This library is in early development.
 
 ### Developing
 
-*   Array
-    *    Sort
-*   Linked List
-    *    Singly Linked List
-    *    Doubly Linked List
-*   Stack
-*   Queue
 *   Tree
     *   Binary Search Tree
     *   Red Black Tree
     *   AVL Tree
+    *   Treap
+
 *   Heap
     *   Min-Max Heap
+
 *   Graph
+    *   Bipartie Graph
+
+*   Other Algorithms
+    *   Sort
     *   Minimum Spanning Tree
     *   Shortest Path
-
 
 ## License
 
